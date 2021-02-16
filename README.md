@@ -1,12 +1,12 @@
 # LeetCode-Practice
 ## Table of Contents
 
-- [Review](#Review)
+- [Material](#Material)
 - [Question List](#question-list)
 - [Tips to Consider](#tips-to-consider)
 - [Resources](#Resources)
 
-## Review
+## Material
 
 Data Structure:
 
@@ -81,20 +81,10 @@ Else
 ```
 
 ## Resources
-This list is heavily inspired from [Grokking the Coding Interview] with
-additional problems extracted from the [Blind 75 list] and this medium article
-on [14 patterns to ace any coding interview question].
+[14 patterns to ace any coding interview question] 
+[cracking the coding interview]
+[blind 75 list]
 
-[leetcode.com]: https://leetcode.com
-[leetcode premium]: https://leetcode.com/subscribe/
-[this pdf]: https://drive.google.com/open?id=1ao4ZA28zzBttDkuS6MLQI52gDs_CJZEm
 [cracking the coding interview]: http://www.crackingthecodinginterview.com/contents.html
-[here]: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-[topcoder]: https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/
-[back to back swe youtube channel]: https://www.youtube.com/watch?v=jgiZlGzXMBw
-[solutions]: https://github.com/SeanPrashad/leetcode-patterns/tree/solutions
-[leetcode discuss]: https://leetcode.com/discuss/interview-question
-[grokking the coding interview]: https://www.educative.io/courses/grokking-the-coding-interview
-[issue]: https://github.com/SeanPrashad/leetcode-patterns/issues/new
 [blind 75 list]: https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU?utm_source=share&utm_medium=ios_app
 [14 patterns to ace any coding interview question]: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
