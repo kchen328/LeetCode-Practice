@@ -82,7 +82,9 @@ Else
 
 ## Resources
 [14 patterns to ace any coding interview question] 
+
 [cracking the coding interview]
+
 [blind 75 list]
 
 [cracking the coding interview]: http://www.crackingthecodinginterview.com/contents.html
