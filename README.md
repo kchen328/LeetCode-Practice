@@ -29,7 +29,11 @@ Algorithms:
 ## Question List
 
 The entire question list can be found here: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
-
+| Question        | Difficulty           | Link  | Completed |
+| ------------- |:-------------:| -----:|
+| Two Sum      | Easy | https://leetcode.com/problems/two-sum/ | In Progress|
+| Best Time to Buy and Sell Stock      | Easy     |   https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | In Progress |
+| Contains Duplicates | Easy      |    https://leetcode.com/problems/contains-duplicate/ | Not Started |
 
 ## Tips to Consider
 
