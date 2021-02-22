@@ -33,7 +33,7 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 
 | Question        | Difficulty           | Link  | Completed |
 | ------------- |:-------------:| -----:|-----:|
-| Two Sum      | Easy | https://leetcode.com/problems/two-sum/ | In Progress|
+| Two Sum      | Easy | https://leetcode.com/problems/two-sum/ | Completed |
 | Best Time to Buy and Sell Stock      | Easy     |   https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | In Progress |
 | Contains Duplicates | Easy      |    https://leetcode.com/problems/contains-duplicate/ | Not Started |
 
