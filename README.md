@@ -36,6 +36,7 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Two Sum      | Easy | https://leetcode.com/problems/two-sum/ | Completed |
 | Best Time to Buy and Sell Stock      | Easy     |   https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | In Progress |
 | Contains Duplicates | Easy      |    https://leetcode.com/problems/contains-duplicate/ | Not Started |
+| Product of Array Except Self |Medium| https://leetcode.com/problems/product-of-array-except-self/ | Not Started |
 
 ## Tips to Consider
 
