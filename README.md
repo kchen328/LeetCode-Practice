@@ -2,8 +2,8 @@
 ## Table of Contents
 
 - [Material](#Material)
-- [Question List](#question-list)
 - [Data Structure](#Data-Structures)
+- [Question List](#question-list)
 - [Tips to Consider](#tips-to-consider)
 - [Resources](#Resources)
 
