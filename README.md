@@ -213,9 +213,9 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | ------------- |:-------------:| -----:|-----:|
 | Two Sum      | Easy | https://leetcode.com/problems/two-sum/ | Completed |
 | Best Time to Buy and Sell Stock      | Easy     |   https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | Completed |
-| Contains Duplicates | Easy      |    https://leetcode.com/problems/contains-duplicate/ | Not Started |
+| Contains Duplicates | Easy      |    https://leetcode.com/problems/contains-duplicate/ | Completed |
 | Product of Array Except Self | Medium | https://leetcode.com/problems/product-of-array-except-self/ | Completed |
-| Maximum Subarray | Easy | https://leetcode.com/problems/maximum-subarray/| Not Started |
+| Maximum Subarray | Easy | https://leetcode.com/problems/maximum-subarray/| Completed |
 
 ## Tips to Consider
 
