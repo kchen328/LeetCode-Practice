@@ -216,8 +216,8 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Contains Duplicates | Easy      |    https://leetcode.com/problems/contains-duplicate/ | Completed |
 | Product of Array Except Self | Medium | https://leetcode.com/problems/product-of-array-except-self/ | Completed |
 | Maximum Subarray | Easy | https://leetcode.com/problems/maximum-subarray/ | Completed |
-| Maximum Product Subarray | Medium | https://leetcode.com/problems/maximum-product-subarray/ | Not Complete |
-| Find Minimum in Rotated Sorted Array | Medium | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | Not Complete |
+| Maximum Product Subarray | Medium | https://leetcode.com/problems/maximum-product-subarray/ | Completed |
+| Find Minimum in Rotated Sorted Array | Medium | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | Completed |
 | Search in Rotated Sorted Array | Medium | https://leetcode.com/problems/search-in-rotated-sorted-array/ | Not Complete |
 | 3Sum | Medium | https://leetcode.com/problems/3sum/ | Not Complete |
 | Container With Most Water | Medium | https://leetcode.com/problems/container-with-most-water/ | Not Complete |
