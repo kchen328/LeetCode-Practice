@@ -218,8 +218,8 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Maximum Subarray | Easy | https://leetcode.com/problems/maximum-subarray/ | Completed |
 | Maximum Product Subarray | Medium | https://leetcode.com/problems/maximum-product-subarray/ | Completed |
 | Find Minimum in Rotated Sorted Array | Medium | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | Completed |
-| Search in Rotated Sorted Array | Medium | https://leetcode.com/problems/search-in-rotated-sorted-array/ | Not Complete |
-| 3Sum | Medium | https://leetcode.com/problems/3sum/ | Not Complete |
+| Search in Rotated Sorted Array | Medium | https://leetcode.com/problems/search-in-rotated-sorted-array/ | Completed |
+| 3Sum | Medium | https://leetcode.com/problems/3sum/ | Completed |
 | Container With Most Water | Medium | https://leetcode.com/problems/container-with-most-water/ | Not Complete |
 
 ## Tips to Consider
