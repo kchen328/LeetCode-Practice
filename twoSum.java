@@ -3,27 +3,32 @@ class Solution {
         //given: array of integers, two index that add up to target
         //a[i] + a[j] = target
         //i != j
-        //brute force solution: two for loops
-        //i > target, instant let's move to next index
         
         //let's use hashmap, key is integer
         //O(n) for for loop, O(1) for hashmap insertions
         
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int[] result = new int[2];
+        // int[] answer = new int[2];
+        // for(int i = 0; i< nums.length; i++){
+        //     for(int j = 0; j < nums.length; j++){
+        //         if( (nums[i]+nums[j] == target) && (i!=j)){
+        //             answer[0] = j;
+        //             answer[1] = i;
+        //         }
+        //     }
+        // }
+        // return answer;
+        HashMap<Integer, Integer> result = new HashMap<Integer, Integer>();
         
-        //[2,7,11,15]
-        //looping through array
         for(int i = 0; i < nums.length; i++){
             int complement = target - nums[i];
-            if(map.containsKey(complement)){
-                result[0] = map.get(complement);
-                result[1] = i;
-                return result;
-                   
+            if(result.containsKey(complement)){
+                return new int[]{result.get(complement), i};
             }
-            map.put(nums[i], i);
+            else{
+                result.put(nums[i],i);
+            }
         }
-        return new int[]{ -1,-1 };
+        return new int[] {-1, -1};
+       
     }
 }
