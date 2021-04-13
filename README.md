@@ -220,7 +220,11 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Find Minimum in Rotated Sorted Array | Medium | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | Completed |
 | Search in Rotated Sorted Array | Medium | https://leetcode.com/problems/search-in-rotated-sorted-array/ | Completed |
 | 3Sum | Medium | https://leetcode.com/problems/3sum/ | Completed |
-| Container With Most Water | Medium | https://leetcode.com/problems/container-with-most-water/ | Not Complete |
+| Sum of Two Integers | Medium | https://leetcode.com/problems/sum-of-two-integers/ | Not Complete |
+| Number of 1 Bits | Easy | https://leetcode.com/problems/number-of-1-bits/ | Not Complete |
+| Counting Bits | Medium | https://leetcode.com/problems/counting-bits/ | Not Complete |
+| Missing Number | Easy | https://leetcode.com/problems/missing-number/ | Not Complete |
+| Reverse Bits | Easy | https://leetcode.com/problems/reverse-bits/ | Not Complete |
 
 ## Tips to Consider
 
