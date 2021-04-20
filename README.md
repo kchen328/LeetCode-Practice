@@ -225,6 +225,7 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Counting Bits | Medium | https://leetcode.com/problems/counting-bits/ | Not Complete |
 | Missing Number | Easy | https://leetcode.com/problems/missing-number/ | Not Complete |
 | Reverse Bits | Easy | https://leetcode.com/problems/reverse-bits/ | Not Complete |
+| Climbing Stairs | Easy | https://leetcode.com/problems/climbing-stairs/ | Not Complete |
 
 ## Tips to Consider
 
