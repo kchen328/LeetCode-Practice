@@ -231,7 +231,7 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Longest Common Subsequence | Medium | https://leetcode.com/problems/longest-common-subsequence/ | Not Complete |
 | Word Break Problem | Medium | https://leetcode.com/problems/word-break/ | Not Complete |
 | Combination Sum | Medium | https://leetcode.com/problems/combination-sum-iv/ | Not Complete |
-| House Robber | Medium | https://leetcode.com/problems/house-robber/ | Not Complete |
+| House Robber | Medium | https://leetcode.com/problems/house-robber/ | Completed |
 | House Robber II | Medium | https://leetcode.com/problems/house-robber-ii/ | Not Complete |
 | Decode Ways | Medium | https://leetcode.com/problems/decode-ways/ | Not Complete |
 | Unique Paths | Medium | https://leetcode.com/problems/unique-paths/ | Not Complete |
