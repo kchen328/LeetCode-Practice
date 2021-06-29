@@ -228,7 +228,7 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Climbing Stairs | Easy | https://leetcode.com/problems/climbing-stairs/ | Completed |
 | Coin Change | Medium | https://leetcode.com/problems/coin-change/ | Completed |
 | Longest Increasing Subsequence | Medium | https://leetcode.com/problems/longest-increasing-subsequence/ | Completed |
-| Longest Common Subsequence | Medium | https://leetcode.com/problems/longest-common-subsequence/ | Not Complete |
+| Longest Common Subsequence | Medium | https://leetcode.com/problems/longest-common-subsequence/ | Completed |
 | Word Break Problem | Medium | https://leetcode.com/problems/word-break/ | Not Complete |
 | Combination Sum | Medium | https://leetcode.com/problems/combination-sum-iv/ | Not Complete |
 | House Robber | Medium | https://leetcode.com/problems/house-robber/ | Completed |
