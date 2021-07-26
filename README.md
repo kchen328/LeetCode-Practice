@@ -232,7 +232,7 @@ The entire question list can be found here: https://www.teamblind.com/post/New-Y
 | Word Break Problem | Medium | https://leetcode.com/problems/word-break/ | Not Complete |
 | Combination Sum | Medium | https://leetcode.com/problems/combination-sum-iv/ | Not Complete |
 | House Robber | Medium | https://leetcode.com/problems/house-robber/ | Completed |
-| House Robber II | Medium | https://leetcode.com/problems/house-robber-ii/ | Not Complete |
+| House Robber II | Medium | https://leetcode.com/problems/house-robber-ii/ | Completed |
 | Decode Ways | Medium | https://leetcode.com/problems/decode-ways/ | Not Complete |
 | Unique Paths | Medium | https://leetcode.com/problems/unique-paths/ | Not Complete |
 | Jump Game | Medium | https://leetcode.com/problems/jump-game/ | Not Complete |
