@@ -1,7 +1,7 @@
     public int numIslands(char[][] grid) {
         // Store the given grid
         // This prevents having to make copies during recursion
-        g = grid;
+        // g = grid;
 
         // Our count to return
         int c = 0;
