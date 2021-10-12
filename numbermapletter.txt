@@ -1,0 +1,22 @@
+local Comb = {
+    [1] = "A",
+    [2] = "B",
+    [3] = "C",
+    [4] = "D",
+    -- so on
+}
+
+local function GetCombFromNumber(num)
+    local stringToReturn = ""
+    if Comb[num] then
+          stringToReturn = Comb[num]
+    else
+          local First = math.floor(num/26)
+          local second = num - (26 * First)
+          First = Comb[First]
+          second = Comb[second]
+          stringToReturn = First.." "..second
+    end
+
+    return stringToReturn
+end
